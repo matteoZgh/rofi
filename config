@@ -1,0 +1,2 @@
+rofi.modi:ssh,window,drun,run
+rofi.theme:/home/matteo/.config/rofi/themes/default.rasi
